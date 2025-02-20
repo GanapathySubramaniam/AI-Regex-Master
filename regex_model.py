@@ -3,7 +3,7 @@ import streamlit as st
 
 
 def configure_model():
-    api_key = "AIzaSyDcFVi9W-gJY4gdR8nsnd5oAlQgi0fYQYU"
+    api_key = "AI-XXXX"
     genai.configure(api_key=api_key)
 
     model_config = {
